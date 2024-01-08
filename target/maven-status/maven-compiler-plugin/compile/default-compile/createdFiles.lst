@@ -1,0 +1,10 @@
+module-info.class
+ec\edu\espol\proyectopoo2p\modelo\Juego.class
+ec\edu\espol\proyectopoo2p\modelo\FichaComodin.class
+ec\edu\espol\proyectopoo2p\SecondaryController.class
+ec\edu\espol\proyectopoo2p\App.class
+ec\edu\espol\proyectopoo2p\modelo\Jugador.class
+ec\edu\espol\proyectopoo2p\PrimaryController.class
+ec\edu\espol\proyectopoo2p\modelo\Ficha.class
+ec\edu\espol\proyectopoo2p\modelo\ProyectoPOO1P.class
+ec\edu\espol\proyectopoo2p\modelo\Utilitaria.class
